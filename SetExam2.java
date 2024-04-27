@@ -89,7 +89,7 @@ public class SetExam2 {
         System.out.println(a.list);
 
         a = new MySet(new int[] {1, 2, 3, 4, 5});
-        MySet b = new MySet(new int[]{2, 4, 6, 8, 10});
+        MySet b = new MySet(new int[] {2, 4, 6, 8, 10});
         System.out.println("a : " + a.list);
         System.out.println("b : " + b.list);
 
